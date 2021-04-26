@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988643103793",
+    "project_id": "agflix-4b128",
+    "storage_bucket": "agflix-4b128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988643103793:android:6034bca0ab6efa24e2f110",
+        "android_client_info": {
+          "package_name": "com.example.agflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988643103793-0u6mda2qot7qnpjtaqgrkmuvrkgi7iel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agflix",
+            "certificate_hash": "5bcf1e4650e2ea1bc9020f886c3cd5984a03ab31"
+          }
+        },
+        {
+          "client_id": "988643103793-7inlk6lv6hjip1rmnem7u2ifaejfh5e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNP_dJZayPwuJLZJQpj5yFg2_OzR85bRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988643103793-7inlk6lv6hjip1rmnem7u2ifaejfh5e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

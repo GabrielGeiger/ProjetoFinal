@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.agflix">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AGFlix">
+        <activity android:name=".modelo.Pessoa"></activity>
+        <activity android:name=".Cadastro" />
+        <activity android:name=".top5.serieGot" />
+        <activity android:name=".top5.serieArrow" />
+        <activity android:name=".top5.serieLucifer" />
+        <activity android:name=".top5.serieSobrenatural" />
+        <activity android:name=".top5.serieFlash" />
+        <activity android:name=".top10.filmePequenos" />
+        <activity android:name=".top10.filmeBlis" />
+        <activity android:name=".top10.filmePinoquio" />
+        <activity android:name=".top10.filmeRaya" />
+        <activity android:name=".top10.filmeRise" />
+        <activity android:name=".top10.filmeMandela" />
+        <activity android:name=".top10.filmeLuci" />
+        <activity android:name=".top10.filmeParaiso" />
+        <activity android:name=".top10.filmeAgencia" />
+        <activity android:name=".top10.filmeUpena" />
+        <activity android:name=".recemadicionados.filmeOutside" />
+        <activity android:name=".recemadicionados.filmeRedDot" />
+        <activity android:name=".recemadicionados.filmeJerry" />
+        <activity android:name=".recemadicionados.filmeRed" />
+        <activity android:name=".recemadicionados.filmeSpace" />
+        <activity android:name=".recemadicionados.filmeZero" />
+        <activity android:name=".Home" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Carregando">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
